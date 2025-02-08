@@ -1,6 +1,6 @@
 {
-  "id": "copilot",
-  "name": "Copilot",
+  "id": "my_copilot",
+  "name": "MyCopilot",
   "version": "2.8.4",
   "minAppVersion": "0.15.0",
   "description": "An AI Copilot in Obsidian.",
